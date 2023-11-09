@@ -1,0 +1,16 @@
+<html>
+    <head><title>Me</title></head>
+    <body>
+        <h1> </h1>
+        <a href="/">Root</a>
+        <form action="http://127.0.0.1:5000/result" method="POST">
+            years Of Experience:<input type="text" name="Years of Experience">
+            <input type="submit" value="predict">
+        </form>
+        {% for k in result %}
+        {% for m in s %}
+       <h6>you predicted {{m}} and found {{k}}</h6> 
+       {% endfor %}
+        {% endfor %}
+    </body>
+</html>
