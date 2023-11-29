@@ -57,6 +57,13 @@ Ensure that you have the following prerequisites installed:
     ```bash
     pip install -r requirements.txt
     ```
+    ### Front-End Screenshots
+
+![Form Screenshot](images/form_screenshot.png)
+*Caption: Screenshot of the data input form.*
+
+![Result Page Screenshot](images/result_page_screenshot.png)
+*Caption: Screenshot of the results page.*
 
 ## Usage
 
