@@ -43,7 +43,7 @@ Ensure that you have the following prerequisites installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YourUsername/Maize-Crop-Yield-Prediction.git
+    git clone https://github.com/OnpointSoftwares/Maize-Crop-Yield-Prediction.git
     ```
 
 2. Change into the project directory:
@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For questions or feedback, please contact [Your Name] at [your.email@example.com].
+For questions or feedback, please contact Vincent at vincentbettoh@gmail.com.
