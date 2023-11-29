@@ -58,11 +58,19 @@ Ensure that you have the following prerequisites installed:
     pip install -r requirements.txt
     ```
     ### Front-End Screenshots
-
-![Form Screenshot](images/form_screenshot.png)
+Screenshot_2023-11-29_00_29_33.png
+(File)
+Screenshots
+1 minute ago
+Screenshot_2023-11-29_00_29_52.png
+(File)
+Screenshots
+1 minute ago
+Screenshot_2023-11-29_00_29_57.png
+![Form Screenshot](images/Screenshot_2023-11-29_00_29_57.png)
 *Caption: Screenshot of the data input form.*
 
-![Result Page Screenshot](images/result_page_screenshot.png)
+![Result Page Screenshot](images/Screenshot_2023-11-29_00_29_52.png)
 *Caption: Screenshot of the results page.*
 
 ## Usage
